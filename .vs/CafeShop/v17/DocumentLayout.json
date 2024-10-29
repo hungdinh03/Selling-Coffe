@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PTUDTMDT\\CafeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\wwwroot\\js\\admin\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\wwwroot\\js\\admin\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\areas\\admin\\views\\productsize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\productsize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\wwwroot\\js\\admin\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|f:\\ptudtmdt\\cafeshop\\cafeshop\\models\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "account.js",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAHIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T09:12:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:32:22.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.js",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T14:30:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:26:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Models\\DTOs\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\DTOs\\PaginationDto.cs",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Models\\DTOs\\PaginationDto.cs",
+              "RelativeToolTip": "CafeShop\\Models\\DTOs\\PaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:07:01.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:17:54.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:17:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product.js",
+              "DocumentMoniker": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\product.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\product.js",
+              "ToolTip": "F:\\PTUDTMDT\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\product.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\product.js",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-21T00:35:52.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
